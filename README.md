@@ -5,7 +5,7 @@ Plugin has been developed as a part of ongoing [Laivuri Windmeter](http://laivur
 
 ## Usage
 
-Instructions to embed the Windmeter Plugin to a webpage can be found on the [wiki](wiki/Usage).
+Instructions for embedding the Windmeter Plugin to a webpage can be found on the [wiki](../../wiki/Usage).
 
 ## Example
 Below is a screenshot of the plugin showing data from [Oulu Vihreäsaari](http://en.ilmatieteenlaitos.fi/weather/oulu?&station=101794) weather station.
